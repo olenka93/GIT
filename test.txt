@@ -1,3 +1,5 @@
 My first commit file
 changes on 2 branch
 after merging
+
+master changed but i commit
