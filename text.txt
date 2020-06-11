@@ -1,1 +1,3 @@
-Adding changes before rebasing 
+Adding changes before rebasing
+
+Changes from master for rebase
